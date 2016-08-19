@@ -12,9 +12,6 @@ try:
 except IOError:
     long_description = "See https://github.com/Junior743/poc-pip_install"
 
-import libpip2pi
-version = "%s.%s.%s" %libpip2pi.__version__
-
 setup(
     name="poc-pip_install",
     version=version,
