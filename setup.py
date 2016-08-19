@@ -16,7 +16,7 @@ setup(
     name="poc-pip_install",
     version=1.0,
     url="https://github.com/Junior743/poc-pip_install",
-    author="Junior",
+    author="Junior Sousa",
     author_email="carlos.junior@tevec.com.br",
     description="""
         pip2pi builds a PyPI-compatible package repository from pip
