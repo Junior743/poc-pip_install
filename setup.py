@@ -21,6 +21,7 @@ setup(
     description="""
         pip2pi builds a PyPI-compatible package repository from pip
         requirements
+	teste
     """,
     long_description=long_description,
     packages=find_packages(),
