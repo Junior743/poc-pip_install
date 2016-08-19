@@ -1,6 +1,6 @@
 import os
 
-class Principal(Object):
+class Principal():
 
     def __init__(self, valor):
         print(calculaValor(valor))
