@@ -13,7 +13,7 @@ except IOError:
     long_description = "See https://github.com/Junior743/poc-pip_install"
 
 setup(
-    name="testeNomeProjeto",
+    name="poc-pip_install",
     version=1.0,
     url="https://github.com/Junior743/poc-pip_install",
     author="Junior",
