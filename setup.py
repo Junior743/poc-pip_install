@@ -29,10 +29,6 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'dir2pi = libpip2pi.commands:dir2pi',
-            'pip2pi = libpip2pi.commands:pip2pi',
-            'pip2tgz = libpip2pi.commands:pip2tgz',
-            'pip2whl = libpip2pi.commands:pip2whl',
         ],
     },
     install_requires=[
