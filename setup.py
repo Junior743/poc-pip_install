@@ -14,7 +14,7 @@ except IOError:
 
 setup(
     name="poc-pip_install",
-    version=version,
+    version=1.0,
     url="https://github.com/Junior743/poc-pip_install",
     author="Junior",
     author_email="carlos.junior@tevec.com.br",
