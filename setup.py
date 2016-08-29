@@ -30,7 +30,7 @@ setup(
         ],
     },
     install_requires=[
-        "git+https://github.com/TEVEC/tevec-corporativo",
+        "-e git+https://github.com/TEVEC/tevec-corporativo",
     ],
     license="BSD",
     classifiers=[ x.strip() for x in """
