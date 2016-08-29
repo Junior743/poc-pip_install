@@ -32,7 +32,7 @@ setup(
     install_requires=[
     ],
     dependency_links=[
-        'git+https://github.com/TEVEC/tevec-corporativo'
+        "git+https://github.com/TEVEC/tevec-corporativo",
     ],
     license="BSD",
     classifiers=[ x.strip() for x in """
