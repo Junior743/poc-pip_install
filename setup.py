@@ -30,7 +30,9 @@ setup(
         ],
     },
     install_requires=[
-        "pip>=1.1",
+    ],
+    dependency_links=[
+        'git+https://github.com/TEVEC/tevec-corporativo'
     ],
     license="BSD",
     classifiers=[ x.strip() for x in """
