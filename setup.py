@@ -29,6 +29,9 @@ setup(
         'console_scripts': [
         ],
     },
+    install_requires=[
+        "tevec-corporativo",
+    ],
     dependency_links=[
         "-e git+https://github.com/TEVEC/tevec-corporativo",
     ],
