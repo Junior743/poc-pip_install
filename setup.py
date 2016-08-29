@@ -30,7 +30,7 @@ setup(
         ],
     },
     install_requires=[
-        "tevec-corporativo==1.2.4",
+        "tevec-corporativo>=1.2.4",
     ],
     dependency_links=[
         "git+https://github.com/TEVEC/tevec-corporativo@1.2.4",
