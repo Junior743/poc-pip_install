@@ -30,10 +30,10 @@ setup(
         ],
     },
     install_requires=[
-        "tevec-corporativo<=1.2.4",
+        "tevec-corporativo",
     ],
     dependency_links=[
-        "git+https://github.com/TEVEC/tevec-corporativo@1.2.4",
+        "git+https://github.com/TEVEC/tevec-corporativo",
     ],
     license="BSD",
     classifiers=[ x.strip() for x in """
