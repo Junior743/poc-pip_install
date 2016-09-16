@@ -7,6 +7,7 @@ setup(
     author_email="carlos.junior@tevec.com.br",
     install_requires=[
         "numpy",
+        "poc-travis"
     ],
     dependency_links = ['https://github.com/Junior743/poc-travis/tarball/master#egg=poc_meu'],
 )
