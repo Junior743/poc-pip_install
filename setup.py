@@ -8,5 +8,5 @@ setup(
     install_requires=[
         "numpy",
     ],
-    dependency_links = ['https://github.com/TEVEC/tevec-corporativo/master#egg=corporativo'],
+    dependency_links = ['https://github.com/Junior743/poc-travis/tarball/master#egg=poc_meu'],
 )
